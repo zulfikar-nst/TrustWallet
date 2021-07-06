@@ -1,7 +1,7 @@
 
 import itertools
 
-st = ["eager","suspect","improve","multiply","fabric","victory","injury","pair",>
+st = ["eager","suspect","improve"]
 
 per = itertools.permutations(st)
 
